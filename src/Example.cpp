@@ -4,6 +4,8 @@
 
 #include "Example.h"
 
+using namespace icy3d;
+
 int Example::add(int a, int b) {
     return a + b;
 }

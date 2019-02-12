@@ -5,6 +5,8 @@
 #ifndef CPPTEMPLATE_EXAMPLE_H
 #define CPPTEMPLATE_EXAMPLE_H
 
+namespace icy3d {
+
 /**
  * @brief This class is just an example on how to structure the project folders and add some doxygen documentation.
  */
@@ -22,5 +24,5 @@ public:
 
 };
 
-
+}
 #endif //CPPTEMPLATE_EXAMPLE_H
